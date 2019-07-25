@@ -1,2 +1,10 @@
-# ind-template
-Open Science Indicator Template
+# Inidcator Template
+## Description
+- one
+- two 
+- three
+
+## Status
+
+# Contributors
+
