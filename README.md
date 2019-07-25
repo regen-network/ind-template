@@ -9,10 +9,10 @@ Add a more detailed description about this indicator
 
 ## Status
 <!-- Choose one of the following Draft | Proposed | In Review | Production -->
-Draft: work in progress
-Proposed: waiting for review 
-In Review: under review
-Production: in production
+- Draft: work in progress
+- Proposed: waiting for review 
+- In Review: under review
+- Production: in production
 
 ## Revision History
 v0.1 - initial draft
