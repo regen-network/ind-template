@@ -1,4 +1,4 @@
-# Inidcator Template
+# Inidicator Name 
 ## Summary
 <!-- Add a one or two sentence to describe this indicator -->
 Add a one or two sentence to describe this indicator
